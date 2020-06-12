@@ -19,7 +19,6 @@ html {
 }
 img {
   width: 862px;
-  height: 862px;
 }
 *,
 *:before,

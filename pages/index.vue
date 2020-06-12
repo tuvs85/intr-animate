@@ -557,7 +557,6 @@ img {
 }
 .intr img {
   width: 120px;
-  height: 120px;
   border-radius: 50%;
 }
 .intr h1 {
